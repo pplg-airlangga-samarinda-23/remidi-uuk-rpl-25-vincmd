@@ -1,0 +1,141 @@
+.cc {
+    width: 250px;
+    height: 650px;
+    border-style: solid;
+
+}
+
+.cd {
+    width: 240px;
+    padding-top: 50px;
+    background-color: rgba(10, 212, 50, 0.336);
+    border-width: 3px;
+    border-style: solid;
+    margin-left: 1%;
+
+}
+
+.ce {
+    display: inline-block;
+    padding: 10px 30px;
+    margin: 30px;
+    background-color: rgba(135, 207, 235, 0.662);
+    color: black;
+    border-style: solid;
+    margin-left: 24%;
+    text-decoration: none;
+}
+
+.cf {
+    display: inline-block;
+    padding: 10px 21px;
+    background-color: rgba(135, 207, 235, 0.662);
+    color: black;
+    border-style: solid;
+    margin-left: 24%;
+}
+
+.cg {
+    display: inline-block;
+    padding: 10px 32px;
+    margin: 30px;
+    background-color: rgba(135, 207, 235, 0.662);
+    color: black;
+    border-style: solid;
+    margin-left: 24%;
+}
+
+.ch {
+    display: inline-block;
+    padding: 10px 41px;
+    background-color: rgba(135, 207, 235, 0.662);
+    color: black;
+    border-style: solid;
+    margin-left: 24%;
+}
+
+.ci {
+    width: 1250px;
+    height: 53px;
+    border-style: solid;
+
+
+}
+
+.pp {
+    display: flex;
+
+}
+
+.b {
+    align-items: center;
+}
+
+.circle {
+    width: 30px;
+    height: 30px;
+    background-color: skyblue;
+    border-radius: 50%;
+    border-style: solid;
+
+}
+
+.d {
+    align-items: center;
+    display: flex;
+    gap: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+
+
+td {
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+    font-size: 12px;
+}
+
+td {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+.ok {
+    display: inline-block;
+    padding: 10px 35px;
+    margin: 20px;
+    background-color: yellow;
+    color: black;
+    border-style: solid;
+    margin-left: 30%;
+}
+
+.ow {
+    border-style: solid;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.dd {
+    display: inline-block;
+    padding: 10px 35px;
+    margin: 20px;
+    background-color: yellow;
+    color: black;
+    border-style: solid;
+    margin-left: -20%;
+    margin-bottom: 0%;
+}
+
+.ky {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50%;
+}
